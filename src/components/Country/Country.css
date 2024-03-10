@@ -3,5 +3,10 @@
   padding: 15px;
   text-align: center;
   border-radius: 10px;
-  border: 2px solid tomato;
+  border: 2px solid skyblue;
+}
+
+.visited {
+  color: black;
+  background-color: orange;
 }
