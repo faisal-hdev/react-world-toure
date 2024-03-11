@@ -4,7 +4,7 @@ import Countries from "./components/Countries/Countries";
 function App() {
   return (
     <>
-      <h1>React react world tour</h1>
+      <h1 style={{ textAlign: "center" }}>React awesome world tour</h1>
       <Countries />
     </>
   );
